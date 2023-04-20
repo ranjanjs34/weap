@@ -1,5 +1,16 @@
 # WEAP: Whole Exome Analysis Pipeline
-1.	Downloading WEAP
+
+
+Operating system(s): Ubuntu 18.04 or higher.
+
+
+Programming language: Bash.
+
+
+Other requirements: Java 1.3.1 or higher, Python3, GLIBC 2.28 or higher.
+
+
+## 1.Downloading WEAP
 
 i.	Install git using:
 
@@ -26,7 +37,9 @@ iv.	After downloading, enter into the WEAP:
        
        
 NOTE: Advanced users may keep WEAP in any convenient location. 
-2.	Setting Up WEAP:
+
+
+## 2.Setting Up WEAP:
 
 
 Add execution permission to binary files configure and reference:
@@ -37,7 +50,7 @@ Add execution permission to binary files configure and reference:
 
 
 
-3.	Downloading prerequisite tools [One Time]
+## 3.Downloading prerequisite tools [One Time]
 
 
 To download the prerequisite tools, run the configure as :
@@ -58,7 +71,7 @@ This Script will automatically download and install the required tools add to pa
 
 
 
-Downloading Reference Data:
+## 4.Downloading Reference Data:
 
 
        ./reference
@@ -69,7 +82,7 @@ This will download the reference genome, Variants with Allele frequency from gen
 
 
 
-4.How to Run WEAP for variant calling (WEAP will guide the users at each step for the input):
+## 5.How to Run WEAP for variant calling (WEAP will guide the users at each step for the input):
 
     
       ./WEAP
