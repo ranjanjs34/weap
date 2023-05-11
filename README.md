@@ -45,8 +45,8 @@ NOTE: Advanced users may keep WEAP in any convenient location.
 Add execution permission to binary files configure and reference:
 
 
-       sudo chmod  +x ./ configure
-       sudo chmod  +x ./ reference
+       sudo chmod  +x ./configure
+       sudo chmod  +x ./reference
 
 
 
