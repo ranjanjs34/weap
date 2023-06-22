@@ -9,6 +9,7 @@ Programming language: Bash.
 
 Other requirements: Java 1.3.1 or higher, Python3, GLIBC 2.28 or higher.
 
+Developer: Ranjan Jyoti Sarma
 
 ## 1.Downloading WEAP
 
