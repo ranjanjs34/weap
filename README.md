@@ -80,7 +80,8 @@ This will download the reference genome, Variants with Allele frequency from gen
 
 
 
-
+#Cited By:
+1. https://www.sciencedirect.com/science/article/pii/S2452014423000651
 
 
 ## 5.How to Run WEAP for variant calling (WEAP will guide the users at each step for the input):
